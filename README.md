@@ -1,5 +1,6 @@
 A meta package that includes the following gems:
 
+* awesome_print
 * pry
 * pry-exception_explorer
 * pry-nav
