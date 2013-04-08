@@ -1,11 +1,9 @@
 A meta package that includes the following gems:
 
-* awesome_print
-* pry
-* pry-exception_explorer
-* pry-nav
-* pry-rescue
-* pry-stack_explorer
+* [awesome_print](https://github.com/michaeldv/awesome_print)
+* [pry](https://github.com/pry/pry)
+* [pry-nav](https://github.com/nixme/pry-nav)
+* [pry-remote](https://github.com/Mon-Ouie/pry-remote)
 
 ## Installation
 
