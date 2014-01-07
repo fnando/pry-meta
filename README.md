@@ -2,7 +2,7 @@ A meta package that includes the following gems:
 
 * [awesome_print](https://github.com/michaeldv/awesome_print)
 * [pry](https://github.com/pry/pry)
-* [pry-nav](https://github.com/nixme/pry-nav)
+* [pry-debugger](https://github.com/nixme/pry-debugger)
 * [pry-remote](https://github.com/Mon-Ouie/pry-remote)
 
 ## Installation
