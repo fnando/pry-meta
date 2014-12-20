@@ -15,7 +15,7 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency 'pry'
-  gem.add_dependency 'pry-nav'
+  gem.add_dependency 'pry-byebug'
   gem.add_dependency 'pry-remote'
   gem.add_dependency 'awesome_print'
 end
